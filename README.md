@@ -3,7 +3,7 @@ A tool for video OCR with paddleocr
  ## Requierements
  Python 3.6 -> 3.9
  
- `pip install paddleocr colorama`
+ `pip install paddlepaddle paddleocr colorama`
  
  [VideoSubFinder](https://sourceforge.net/projects/videosubfinder/)
  
