@@ -2,6 +2,8 @@
 A dirty script for video OCR with paddleocr.py
 ## Requierements
 Python 3.6+
+
+Only work with numpy vesion < 1.24
  
 `pip install paddlepaddle paddleocr colorama`
  
@@ -14,5 +16,5 @@ By default the script will only ocr the bottom of video. <br>
 Open a terminal, then `python InstantPaddleVideOCR.py`.<br>
 It just works and if it crashes restart.<br>
 Done !<br>
-D'ailleurs jsp pq j'ai ecris en anglais mais le bazarre il est fait pour ocr du texte francais.<br>
+D'ailleurs jsp pq j'ai écris en anglais mais le bazarre il est fait pour ocr du texte français.<br>
 There will be no update et yes this code smells like shit but it works well.
