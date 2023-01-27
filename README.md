@@ -18,3 +18,8 @@ It just works and if it crashes restart.<br>
 Done !<br>
 D'ailleurs jsp pq j'ai écris en anglais mais le bazarre il est fait pour ocr du texte français.<br>
 There will be no update et yes this code smells like shit but it works well.
+
+## Why hard sub in first place ?
+
+
+![dmitry](https://user-images.githubusercontent.com/69089935/215150444-bb2e7715-95a8-42e8-b092-fd461890206d.png)
