@@ -23,3 +23,8 @@ There will be no update et yes this code smells like shit but it works well.
 
 
 ![dmitry](https://user-images.githubusercontent.com/69089935/215150444-bb2e7715-95a8-42e8-b092-fd461890206d.png)
+
+
+## Also
+
+You can check this [repo](https://github.com/oliverfei/videocr-PaddleOCR)
